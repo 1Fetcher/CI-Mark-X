@@ -1,0 +1,11 @@
+.about_me_pic{
+  height: 200px;
+  width:200px;
+  border-radius: 50%;
+  margin: auto;
+}
+
+#about_pic_text{
+  position : absolute;
+  margin-top:80px;
+}
